@@ -1,0 +1,13 @@
+C:\Users\ROZHD\source\repos\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.exe
+C:\Users\ROZHD\source\repos\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.deps.json
+C:\Users\ROZHD\source\repos\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.json
+C:\Users\ROZHD\source\repos\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.runtimeconfig.dev.json
+C:\Users\ROZHD\source\repos\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.dll
+C:\Users\ROZHD\source\repos\MyConsoleApp\bin\Debug\netcoreapp3.1\MyConsoleApp.pdb
+C:\Users\ROZHD\source\repos\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ROZHD\source\repos\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ROZHD\source\repos\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.AssemblyInfo.cs
+C:\Users\ROZHD\source\repos\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ROZHD\source\repos\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.dll
+C:\Users\ROZHD\source\repos\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.pdb
+C:\Users\ROZHD\source\repos\MyConsoleApp\obj\Debug\netcoreapp3.1\MyConsoleApp.genruntimeconfig.cache

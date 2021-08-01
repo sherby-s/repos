@@ -1,0 +1,15 @@
+C:\Users\ROZHD\source\repos\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.exe
+C:\Users\ROZHD\source\repos\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.deps.json
+C:\Users\ROZHD\source\repos\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.runtimeconfig.json
+C:\Users\ROZHD\source\repos\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.runtimeconfig.dev.json
+C:\Users\ROZHD\source\repos\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.dll
+C:\Users\ROZHD\source\repos\MyWinFormsApp\bin\Debug\netcoreapp3.1\MyWinFormsApp.pdb
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.Form1.resources
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.csproj.GenerateResource.cache
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.AssemblyInfo.cs
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.dll
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.pdb
+C:\Users\ROZHD\source\repos\MyWinFormsApp\obj\Debug\netcoreapp3.1\MyWinFormsApp.genruntimeconfig.cache

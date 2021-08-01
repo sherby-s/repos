@@ -1,0 +1,16 @@
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\HW 5.2.exe
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\HW 5.2.deps.json
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\HW 5.2.runtimeconfig.json
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\HW 5.2.runtimeconfig.dev.json
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\HW 5.2.dll
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\HW 5.2.pdb
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\ROZHD\source\repos\HW 5.2\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.csproj.AssemblyReference.cache
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.AssemblyInfoInputs.cache
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.AssemblyInfo.cs
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.csproj.CoreCompileInputs.cache
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.csproj.CopyComplete
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.dll
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.pdb
+C:\Users\ROZHD\source\repos\HW 5.2\obj\Debug\netcoreapp3.1\HW 5.2.genruntimeconfig.cache
