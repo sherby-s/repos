@@ -9,8 +9,8 @@ namespace HW_5._3
         {
             Cone fugure = new Cone(5.33M,3.098M);
 
-            Console.WriteLine("Площадь основания: " + fugure.SquareBase() + "метров кв.");
-            Console.WriteLine($"Площад конуса: {fugure.SquareCone()} метров кв.");
+            Console.WriteLine("Площадь основания: " + fugure.SquareBase() + " метров кв.");
+            Console.WriteLine($"Площадь конуса: {fugure.SquareCone()} метров кв.");
         }
     }
 }
